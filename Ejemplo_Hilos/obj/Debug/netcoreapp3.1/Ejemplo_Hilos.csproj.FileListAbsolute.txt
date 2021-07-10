@@ -1,0 +1,13 @@
+C:\Users\CAROLYN\Desktop\Main Folder\ITLA\Tareas C2 - 2021\Programación Pararela\Ejemplo_Hilos\Ejemplo_Hilos\bin\Debug\netcoreapp3.1\Ejemplo_Hilos.exe
+C:\Users\CAROLYN\Desktop\Main Folder\ITLA\Tareas C2 - 2021\Programación Pararela\Ejemplo_Hilos\Ejemplo_Hilos\bin\Debug\netcoreapp3.1\Ejemplo_Hilos.deps.json
+C:\Users\CAROLYN\Desktop\Main Folder\ITLA\Tareas C2 - 2021\Programación Pararela\Ejemplo_Hilos\Ejemplo_Hilos\bin\Debug\netcoreapp3.1\Ejemplo_Hilos.runtimeconfig.json
+C:\Users\CAROLYN\Desktop\Main Folder\ITLA\Tareas C2 - 2021\Programación Pararela\Ejemplo_Hilos\Ejemplo_Hilos\bin\Debug\netcoreapp3.1\Ejemplo_Hilos.runtimeconfig.dev.json
+C:\Users\CAROLYN\Desktop\Main Folder\ITLA\Tareas C2 - 2021\Programación Pararela\Ejemplo_Hilos\Ejemplo_Hilos\bin\Debug\netcoreapp3.1\Ejemplo_Hilos.dll
+C:\Users\CAROLYN\Desktop\Main Folder\ITLA\Tareas C2 - 2021\Programación Pararela\Ejemplo_Hilos\Ejemplo_Hilos\bin\Debug\netcoreapp3.1\Ejemplo_Hilos.pdb
+C:\Users\CAROLYN\Desktop\Main Folder\ITLA\Tareas C2 - 2021\Programación Pararela\Ejemplo_Hilos\Ejemplo_Hilos\obj\Debug\netcoreapp3.1\Ejemplo_Hilos.csproj.AssemblyReference.cache
+C:\Users\CAROLYN\Desktop\Main Folder\ITLA\Tareas C2 - 2021\Programación Pararela\Ejemplo_Hilos\Ejemplo_Hilos\obj\Debug\netcoreapp3.1\Ejemplo_Hilos.AssemblyInfoInputs.cache
+C:\Users\CAROLYN\Desktop\Main Folder\ITLA\Tareas C2 - 2021\Programación Pararela\Ejemplo_Hilos\Ejemplo_Hilos\obj\Debug\netcoreapp3.1\Ejemplo_Hilos.AssemblyInfo.cs
+C:\Users\CAROLYN\Desktop\Main Folder\ITLA\Tareas C2 - 2021\Programación Pararela\Ejemplo_Hilos\Ejemplo_Hilos\obj\Debug\netcoreapp3.1\Ejemplo_Hilos.csproj.CoreCompileInputs.cache
+C:\Users\CAROLYN\Desktop\Main Folder\ITLA\Tareas C2 - 2021\Programación Pararela\Ejemplo_Hilos\Ejemplo_Hilos\obj\Debug\netcoreapp3.1\Ejemplo_Hilos.dll
+C:\Users\CAROLYN\Desktop\Main Folder\ITLA\Tareas C2 - 2021\Programación Pararela\Ejemplo_Hilos\Ejemplo_Hilos\obj\Debug\netcoreapp3.1\Ejemplo_Hilos.pdb
+C:\Users\CAROLYN\Desktop\Main Folder\ITLA\Tareas C2 - 2021\Programación Pararela\Ejemplo_Hilos\Ejemplo_Hilos\obj\Debug\netcoreapp3.1\Ejemplo_Hilos.genruntimeconfig.cache
